@@ -18,8 +18,8 @@ const About = () => {
                     <Row>
                         <Col sm={12} lg={6} xs={{ order: 'last' }} md={{ order: 'first' }} className="about-info-div">
                             <div className="about-info">
-                                <h4>WE ARE SKILL DEVELOPER INSTITUTION</h4>
                                 <h1>Unique Proramming Zone</h1>
+                                <h4>WE ARE SKILL DEVELOPING INSTITUTION</h4>
                                 <h4>We work for the programming lover. We want to make the country people technically strong. We provide in very low budget, the best quality courses.</h4>
                             </div>
                         </Col>
