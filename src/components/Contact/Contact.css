@@ -1,0 +1,10 @@
+.contact-info-div{
+    display: flex;
+    align-items: center;
+}
+.contact-info h1{
+    font-size: 2rem;
+}
+.contact-info h4{
+    font-size: 1rem;
+}

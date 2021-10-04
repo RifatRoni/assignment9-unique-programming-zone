@@ -1,0 +1,13 @@
+.footer{
+    text-align: center;
+    padding:20px;
+    background-color: #0284FC;
+    color: white;
+}
+.social{
+    color:white;
+    margin-right: 0.5rem;
+}
+.social:hover{
+    color:#212529;
+}

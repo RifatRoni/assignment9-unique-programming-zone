@@ -1,0 +1,10 @@
+.service-info-div{
+    display: flex;
+    align-items: center;
+}
+.service-info h1{
+    font-size: 2rem;
+}
+.service-info h4{
+    font-size: 1rem;
+}
