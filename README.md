@@ -1,11 +1,11 @@
-# Welcome to UNIQUE PRORGAMMING ZONE website
+# Welcome to UNIQUE PROGAMMING ZONE website
 Hello! I am **Md. Rifat Hossain Roni**
 I am a regular student of Programming Hero 4th batch.
 I've already learnt html, css, javascript, bootstrap and now studying React JS
 
 # About My Project
 This is my assignment project based on >> React JS
-This is no 9 Assignment of Module 9
+This is no 9 Assignment of Milestone 9
 
 ## Name of my Project: Unique Programming Zone
 Website Netlify hosted Link: (https://unique-programming-zone.netlify.app/)
